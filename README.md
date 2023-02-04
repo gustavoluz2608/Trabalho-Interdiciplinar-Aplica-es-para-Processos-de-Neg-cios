@@ -3,7 +3,7 @@ Repositório de features para o projeto de trabalho interdiciplinar da PUC-Minas
 
 ## Integrantes:
 
-### Arthur
-### Gustavo Henrique de Moura Luz
+### Arthur Proença
+### Gustavo Moura
 ### João Eduardo
 ### Vincius Lacerda
